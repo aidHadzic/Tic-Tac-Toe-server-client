@@ -8,3 +8,4 @@
 
 <h3>Tests </h3>
 <p>To run it locally, host have to be "localhost". Download the project and run the project. Server is going to start. Then run the applet Client.java. Keep in mind that Client.java is an applet without main method and you have to run it as a file. Run it two times in order to form a first session of players.</p>
+<p>Youtube video soon... </p>
